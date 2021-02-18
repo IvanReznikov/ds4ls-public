@@ -2,4 +2,4 @@
 
 ### To be updated.
 
-Priveate repo: https://github.com/IvanReznikov/Data-Sceince-for-Life-Sciences
+Private and full repo: https://github.com/IvanReznikov/Data-Sceince-for-Life-Sciences
